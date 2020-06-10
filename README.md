@@ -22,5 +22,5 @@ play with python
    git clone https://github.com/zhaofei0129/PlayWithPython.git
 
 ## Pip usage
-1. upgrade 
+1. upgrade  
    pip install --upgrade pip --user
