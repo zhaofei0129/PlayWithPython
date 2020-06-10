@@ -7,15 +7,21 @@ play with python
 2. install  
    check 'Add Python 3.8 to PATH';
    click 'next'...;
-   click 'disable path length limit'.
+   click 'disable path length limit' then finish.
 3. check if install successfully  
    open 'cmd', type 'python' and see it works
 
+## Install PyCharm
+1. download  
+   select 'Community' to download on https://www.jetbrains.com/pycharm/download/#section=windows
+2. Install  
+   click 'next'...and check all the boxes then finish
+   
 ## Install Git
 1. download  
    download on https://gitforwindows.org/
 2. Install  
-   click 'next'...
+   click 'next'...then finish
    
 ## Git usage
 1. clone  
