@@ -1,5 +1,7 @@
-# PlayWithPython
-play with python
+# Start the first case 'Hello world' with PyCharm 
+1. git clone https://github.com/zhaofei0129/PlayWithPython.git
+2. open 'PyCharm', 'File' -> 'open' the 'PlayWithPython' folder
+3. run 'Helloworld.py'
 
 ## Install Python 3.8.3
 1. download  
