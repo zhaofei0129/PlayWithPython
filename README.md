@@ -15,7 +15,7 @@ play with python
 1. download  
    select 'Community' to download on https://www.jetbrains.com/pycharm/download/#section=windows
 2. Install  
-   click 'next'...and check all the boxes then finish
+   click 'next'...and check all the boxes then finish, and reboot.
    
 ## Install Git
 1. download  
