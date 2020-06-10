@@ -10,3 +10,13 @@ play with python
    click 'disable path length limit'.
 3. check if install successfully  
    open 'cmd', type 'python' and see it works
+
+## Install Git
+1. download  
+   download on https://gitforwindows.org/
+2. Install  
+   next
+   
+## Pip usage
+1. upgrade 
+   pip install --upgrade pip --user
